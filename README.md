@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Cíntia and I'm a final-year student of Computer Engineering, a candidate for a Master's in Computer Engineering specializing in Information Systems. I am 22 years old, studying at the University of Coimbra.</h2>
+<h2 align="left">Hi 👋! My name is Cíntia and I'm a final-year student of Computer Engineering, I am 22 years old, studying at the University of Coimbra.</h2>
 
 ###
 
